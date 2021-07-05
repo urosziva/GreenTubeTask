@@ -1,0 +1,14 @@
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\bin\Debug\netcoreapp2.1\GreenTubeTask.deps.json
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\bin\Debug\netcoreapp2.1\GreenTubeTask.runtimeconfig.json
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\bin\Debug\netcoreapp2.1\GreenTubeTask.runtimeconfig.dev.json
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\bin\Debug\netcoreapp2.1\GreenTubeTask.dll
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\obj\Debug\netcoreapp2.1\GreenTubeTask.csprojAssemblyReference.cache
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\obj\Debug\netcoreapp2.1\GreenTubeTask.csproj.CoreCompileInputs.cache
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\obj\Debug\netcoreapp2.1\GreenTubeTask.RazorAssemblyInfo.cache
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\obj\Debug\netcoreapp2.1\GreenTubeTask.RazorAssemblyInfo.cs
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\obj\Debug\netcoreapp2.1\GreenTubeTask.AssemblyInfoInputs.cache
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\obj\Debug\netcoreapp2.1\GreenTubeTask.AssemblyInfo.cs
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\obj\Debug\netcoreapp2.1\GreenTubeTask.RazorTargetAssemblyInfo.cache
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\bin\Debug\netcoreapp2.1\GreenTubeTask.pdb
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\obj\Debug\netcoreapp2.1\GreenTubeTask.dll
+C:\Users\urosz\source\repos\GreenTubeTask\GreenTubeTask\obj\Debug\netcoreapp2.1\GreenTubeTask.pdb
